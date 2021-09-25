@@ -1,2 +1,1 @@
-# software-work-flows
-It's my project.
+I am a new trainee in software development project.
